@@ -1,0 +1,16 @@
+{
+  "name": "web-starter",
+  "version": "0",
+  "description": "Generic starter for any web project",
+  "main": "index.js",
+  "repository": "git@github.com:spbsamuel/web-starter.git",
+  "author": "<spbsamuel@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
